@@ -9,7 +9,7 @@ def operation(a, b, c, d):
     return result
 
 def operation2(a,b):
-    return a-b
+    return a*b
 # Execute main operation
 if __name__ == "__main__":
     op_result = operation(varA, varB, varC, varD)
