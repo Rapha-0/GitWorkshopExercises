@@ -121,4 +121,4 @@ Take a look at the overwview:
 When using multiple branches, you have to cherry-pick and merge from time to time.
 The goal is to keep all branches up-to-date.
 Obviously, the more branches there are, the more complicated to manage this process gets.
-That's why GUIs and Webinterfaces are your best friends for managing branches.
+That's why GUIs and Webinterfaces are your best friends for managing branches!
